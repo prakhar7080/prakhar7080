@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakhar Gupta</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a Frontend Developer skilled in: ⭐ Building beautiful, responsive user interfaces with HTML, CSS, JavaScript, Tailwind CSS, and React.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhar7080" alt="prakhar7080" /></a> </p>
-
 - 📫 How to reach me **prakhargupta3510@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
